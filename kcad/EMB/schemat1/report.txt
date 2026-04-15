@@ -1,0 +1,49 @@
+Informacja: Przetwarzam symbol 'IC1:ESP32C6WROOM1N8'.
+Informacja: Przetwarzam symbol 'U1:Display:ER_OLEDM0.91_1x-I2C'.
+Usunięto nieużywaną sieć unconnected-(IC1-IO7-Pad7).
+Dodaję sieć /I2C.
+Ponownie połączono IC1 pin 6 z unconnected-(IC1-IO6-Pad6) do /I2C.
+Dodaję sieć GND.
+Ponownie połączono IC1 pin 28 z unconnected-(IC1-GND_2-Pad28) do GND.
+Dodaję sieć /I2C_2.
+Ponownie połączono IC1 pin 7 z unconnected-(IC1-IO7-Pad7) do /I2C_2.
+Ponownie połączono IC1 pin 33 z unconnected-(IC1-GND_7-Pad33) do GND.
+Ponownie połączono IC1 pin 1 z unconnected-(IC1-GND_1-Pad1) do GND.
+Ponownie połączono IC1 pin 29 z unconnected-(IC1-GND_3-Pad29) do GND.
+Ponownie połączono IC1 pin 37 z unconnected-(IC1-GND_11-Pad37) do GND.
+Ponownie połączono IC1 pin 30 z unconnected-(IC1-GND_4-Pad30) do GND.
+Ponownie połączono IC1 pin 31 z unconnected-(IC1-GND_5-Pad31) do GND.
+Ponownie połączono IC1 pin 36 z unconnected-(IC1-GND_10-Pad36) do GND.
+Ponownie połączono IC1 pin 35 z unconnected-(IC1-GND_9-Pad35) do GND.
+Ponownie połączono IC1 pin 34 z unconnected-(IC1-GND_8-Pad34) do GND.
+Ponownie połączono IC1 pin 32 z unconnected-(IC1-GND_6-Pad32) do GND.
+Dodano U1 (footprint 'Display:ER_OLEDM0.91_1x-I2C').
+Zmieniono REF** odnośników do U1.
+Uaktualniono U1 przypisań symboli z  do /32cd5dcf-04a3-4e14-9086-79ef3a3d6289.
+Uaktualniono U1 pól.
+Zaktualizowano nazwę arkusza U1 do '/'.
+Zaktualizowano plik arkusza U1 do 'schemat1.kicad_sch'.
+Uaktualniono U1 filtrów footrpintu na 'ER?OLEDM0.91?1x?I2C*'.
+Połączono U1 pin 3 do /I2C.
+Dodaję sieć unconnected-(U1-VCC-Pad2).
+Połączono U1 pin 2 do unconnected-(U1-VCC-Pad2).
+Dodaję sieć unconnected-(U1-GND-Pad1).
+Połączono U1 pin 1 do unconnected-(U1-GND-Pad1).
+Połączono U1 pin 4 do /I2C_2.
+Updated U1 unit metadata.
+Usunięto nieużywaną sieć unconnected-(IC1-GND_1-Pad1).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_10-Pad36).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_11-Pad37).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_2-Pad28).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_3-Pad29).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_4-Pad30).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_5-Pad31).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_6-Pad32).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_7-Pad33).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_8-Pad34).
+Usunięto nieużywaną sieć unconnected-(IC1-GND_9-Pad35).
+Usunięto nieużywaną sieć unconnected-(IC1-IO6-Pad6).
+Ostrzeżenie: Ostrzeżenie: IC1 footprint 'ESP32C6WROOM1N8' nie ma nazwy biblioteki. Użyj pełnego formatu 'Biblioteka:Footprint' by zapobiec następnym ostrzeżnieniom.
+
+
+Informacja: Ostrzeżeń w sumie: 1, błędów w sumie: 0.
